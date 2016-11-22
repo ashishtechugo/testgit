@@ -6,6 +6,6 @@
 Click on the image to start the Demo. <br/>
 <a href="login.php"><img src="LoginTwitter.png"/></a>
 </div>
-</body>
+</bod>
 
 </html>
